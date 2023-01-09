@@ -1,7 +1,6 @@
 # Launch notebook in binder
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aturlione/curso_opendap_xarray/HEAD?labpath=https%3A%2F%2Fgithub.com%2Faturlione%2Fcurso_opendap_xarray%2Fblob%2Fmaster%2Fopendap_xarray.ipynb)
 
-
 # Download data from CMENS with OPenDAP and explore it with xarray
 - Log into CMENS
 - Access the data
